@@ -14,9 +14,9 @@ int restar(int a, int b) {
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
-//esta funcion multiplica 2 numeros y retorna el resultado.
+/* esta funcion multiplica 2 numeros y retorna el resultado.    */
 int multiplicar(int a, int b) {
-    return a * b; /* TODO: implementar */
+    return a * b;
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
