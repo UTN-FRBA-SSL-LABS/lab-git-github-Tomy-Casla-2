@@ -2,7 +2,8 @@
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 
-int sumar(int a, int b) {
+//el const le indica al programa que esos valores no se pueden modificar dentro de la funcion
+int sumar(const int a, const int b) {
     return a + b;
 }
 
