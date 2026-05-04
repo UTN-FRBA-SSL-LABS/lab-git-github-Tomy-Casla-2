@@ -10,7 +10,7 @@ int sumar(const int a, const int b) {
 /* ── restar — ya implementada ────────────────────────────────────────────── */
 
 int restar(int a, int b) {
-    return a - b;
+    return a - b; //
 }
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
